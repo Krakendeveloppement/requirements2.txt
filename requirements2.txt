@@ -1,0 +1,4 @@
+streamlit
+chatterbot
+chatterbot-corpus
+wikipedia-api
